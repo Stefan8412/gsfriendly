@@ -17,7 +17,7 @@ const links = [
     href: '/dashboard/games',
     icon: DocumentDuplicateIcon,
   },
-  { name: 'Clubs', href: '/dashboard/clubs', icon: UserGroupIcon },
+  { name: 'Club', href: '/dashboard/clubs', icon: UserGroupIcon },
 ];
 
 export default function NavLinks() {
